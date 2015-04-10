@@ -2,7 +2,7 @@
 /**
  * Plugin Name: AS gMap Light
  * Plugin URI: http://wdashik.com/plugins/as-gmap-light/
- * Description: This is only a fun project for me. It's generate a google map image 
+ * Description: As Gmap Light is a simple map image generator plugin. You can add your own map with it via shortcode and widget.  
  * Version: 1.0.0
  * Author: Md Ashikur Rahman
  * Author URI: http://wdashik.com/
