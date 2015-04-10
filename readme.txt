@@ -30,7 +30,7 @@ After installing Plugin you will get a widget which name is <strong>AS gMap Wid
 
 == Screenshots ==
 
-1. AftAfter installing Plugin you will get a widget which name is AS gMap Widget on your wordpress Admin panel. Put it any of your widget area with it’s configuration. You can see the screenshot below.
+1. After installing Plugin you will get a widget which name is AS gMap Widget on your wordpress Admin panel. Put it any of your widget area with it’s configuration. You can see the screenshot below.
 2. You will Get some Form field in AS gMap Widget.
 3. You will also get a Button on your wordpress Post editor Like this. With this button you can easily add a shortcode in your post or page. After clicking the button you will get a popup box. Which have same kind of form field that we see in widget box.
 
