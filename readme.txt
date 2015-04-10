@@ -23,7 +23,7 @@ After installing Plugin you will get a widget which name is <strong>AS gMap Wid
 
 <strong>To install your Plugin. Follow This Steps.</strong>
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload `as-google-maps` to the `/wp-content/plugins/` directory
 
 <span style="line-height: 1.714285714; font-size: 1rem;">2. Activate the plugin through the 'Plugins' menu in WordPress</span>
 
